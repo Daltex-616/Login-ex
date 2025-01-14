@@ -52,10 +52,10 @@ export default {
           foreground: "hsl(var(--card-foreground))",
         },
         ecoblue: {
-          light: "#E8F5E9",  // Verde claro
-          DEFAULT: "#81C784", // Verde medio
+          light: "#E7F0FD",  // Verde claro
+          DEFAULT: "#accbee", // Verde medio
         },
-        ecotext: "#1B5E20",  // Verde oscuro
+        ecotext: "#2D3748",  // Verde oscuro
       },
       animation: {
         "leaf-bounce": "leaf-bounce 2s ease-in-out infinite",
